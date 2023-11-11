@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset='UTF-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <meta name="description" content="This website is dedicated to the resume of Aparna Petluri.">
+  <meta name="author" content="862414381">
+
+  <title>Aparna Petluri - Data Science</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Aparna Petluri</span>
+      <span class="d-none d-lg-block">
+              <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/img:aparnapetluri.png" alt="Profile Picture">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-3">Aparna Petluri
+        </h1>
+        <div class="subheading mb-5">Data Science</div>
+        <p class="lead mb-4">I am a current student at the University of California, Riverside, and I am majoring in Data Science in the College of Natural and Agricultural Sciences. I am very interested in learning about the different aspects of computer science and management.<br><br>
+        </p>
+        <div class="social-icons">
+          <a target="_blank" id="socialicon-1" href="https://www.linkedin.com/in/aparna-petluri-7b4479242/">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a target="_blank" id="socialicon-2" href="https://github.com/aparnapetluri1">
+            <i class="fab fa-github"></i>
+          </a>
+          <a target="_blank" id="socialicon-3" href="https://www.instagram.com/aparnapet/">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a target="_blank" id="socialicon-4" href="mailto:apetl004@gmail.com">
+            <i class="fa fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Sales Associate</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://yourcompany.com">Hollister</a></div>
+            <p>
+              • Responsible for welcoming customers<br> 
+              • Guaranteed company makes sales <br>
+              • Maintaining floor appearance<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Jun 2023- Aug 2023</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Head Coordinator</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://wholefoods.com">TED</a></div>
+            <p>
+              • Raised $6000+ in donations by calling private businesses to sponsor the 2023 event<br>
+              • Created 28 page pamphlet, as well as 30+ graphics, following TED official guidelines<br>
+              • Managed over 40 TEDx interns to publicize and financially support the event<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Sept 2022 - Jun 2023</span>
+          </div>
+        </div>
+
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Team Leader</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://ucr.edu">Modeling the Future Challenge</a></div>
+            <p>
+            • Served as team leader where I conducted meetings with teachers and advisors over the course of seven months.<br>
+            • Excelled on a test with 30+ questions regarding projecting trends and modeling data.<br>
+            •  Helped my team conceptualize a solution to a communal issue. <br>
+            • Created a 24 page research paper that included economic, statistical, and marketing principles.<br>
+
+          </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Semi - Finalist Prize Winner - 2022</span>
+          </div>
+        </div>
+
+
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0">UC Riverside</h3>
+            <div class="subheading mb-3">Major in Data Science</div>
+            <div>Minor in Business</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Current</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0">Whitney High School</h3>
+            <div class="subheading mb-3">High School Diploma</div>
+            <div>4.0 GPA</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">June 2023</span>
+          </div>
+        </div>
+     </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
+      <div class="w-100">
+        <h2 class="mb-5">Portfolio</h1>
+        <center>
+            <img src="img/first.png" width="500px">
+            <img src="img/second.png" width="500px"><br>
+            <img src="img/third.png" width="500px">
+            <img src="img/fourth.png" width="500px"><br>
+
+        </center>
+      </div>
+    </section>
+
+    <hr class="m-0">
+    <center>&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+  </script> John Doe</center><br>
+  </div>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+</body>
+</html>
